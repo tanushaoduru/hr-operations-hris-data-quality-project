@@ -1,0 +1,11 @@
+Ticket ID,Date Opened,Requestor,Category,Description,Priority,Status,Resolution Notes,Date Closed
+TCK-1001,2026-08-03,HRBP - Mehta,Data Correction,Update department for EMP1042 from blank to Talent Acquisition,Medium,Closed,Confirmed via transfer email; simulated HRIS update to Talent Acquisition,2026-08-04
+TCK-1002,2026-08-05,Employee Self-Service,Data Correction,Employee name shows blank in system after recent name change,High,Closed,Verified via HR file; simulated correction of name field in HRIS record,2026-08-05
+TCK-1003,2026-08-06,Payroll Team,Escalation,Employee status shows Active but has a termination date on file,High,Closed,"Applied data precedence rule, simulated status update to Terminated, notified payroll",2026-08-07
+TCK-1004,2026-08-10,HRBP - Rao,Reporting Request,Ad hoc attrition report needed for Q3 board deck,Medium,Closed,Delivered attrition-by-department report same week,2026-08-12
+TCK-1005,2026-08-11,HRIS Systems Team,Data Migration,Validate 120 records post system migration for duplicates,High,Closed,Found and resolved 4 duplicate IDs in simulated dataset; see audit findings log,2026-08-13
+TCK-1006,2026-08-14,Manager - S. Krishnan,Data Correction,Manager field is blank for a direct report,Low,Closed,Simulated HRIS update to manager field per org chart confirmation,2026-08-15
+TCK-1007,2026-08-18,HRBP - Iyer,Reporting Request,Monthly headcount report request for Total Rewards dept,Low,Closed,Delivered per standard monthly SOP,2026-08-19
+TCK-1008,2026-08-20,Employee Self-Service,Data Correction,Termination date missing for an employee marked Terminated,Medium,Open,Awaiting confirmation from offboarding team,
+TCK-1009,2026-08-22,HRIS Systems Team,System Testing,UAT support needed for new HRIS field mapping,Medium,In Progress,Testing in progress on simulated dataset; 2 of 5 test cases completed,
+TCK-1010,2026-08-25,HRBP - Bose,Data Correction,Duplicate employee ID identified during onboarding,High,Closed,Simulated merge of duplicate records; retained most complete record,2026-08-26
