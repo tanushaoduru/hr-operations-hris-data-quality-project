@@ -1,0 +1,24 @@
+Employee ID,Issue Type,Issue Description,Action Taken,Status
+EMP1050,Missing Manager,Manager field blank in raw export,Flagged as UNASSIGNED; queued for HRBP follow-up,Pending
+EMP1106,Terminated - No Termination Date,Status is Terminated but Termination Date is blank,Flagged for payroll/offboarding team confirmation before next report cycle,Pending
+EMP1065,Status Contradiction,Status is Active but a Termination Date is present,Corrected Status to Terminated using Termination Date as source of truth (data precedence rule),Resolved
+EMP1064,Status Contradiction,Status is Active but a Termination Date is present,Corrected Status to Terminated using Termination Date as source of truth (data precedence rule),Resolved
+EMP1076,Missing Employee Name,Name field blank in raw export,Flagged as UNKNOWN - PENDING HR CONFIRMATION; routed to source system owner,Pending
+EMP1085,Missing Manager,Manager field blank in raw export,Flagged as UNASSIGNED; queued for HRBP follow-up,Pending
+EMP1110,Duplicate Employee ID,Employee ID EMP1110 appears 2 times in raw export,Retained most complete record per SOP; removed duplicate row(s),Resolved
+EMP1100,Duplicate Employee ID,Employee ID EMP1100 appears 2 times in raw export,Retained most complete record per SOP; removed duplicate row(s),Resolved
+EMP1091,Missing Department,Department field blank in raw export,Flagged as UNASSIGNED - PENDING MANAGER INPUT; escalated to reporting manager,Pending
+EMP1096,Missing Department,Department field blank in raw export,Flagged as UNASSIGNED - PENDING MANAGER INPUT; escalated to reporting manager,Pending
+EMP1102,Missing Manager,Manager field blank in raw export,Flagged as UNASSIGNED; queued for HRBP follow-up,Pending
+EMP1030,Duplicate Employee ID,Employee ID EMP1030 appears 2 times in raw export,Retained most complete record per SOP; removed duplicate row(s),Resolved
+EMP1006,Missing Department,Department field blank in raw export,Flagged as UNASSIGNED - PENDING MANAGER INPUT; escalated to reporting manager,Pending
+EMP1104,Missing Manager,Manager field blank in raw export,Flagged as UNASSIGNED; queued for HRBP follow-up,Pending
+EMP1005,Status Contradiction,Status is Active but a Termination Date is present,Corrected Status to Terminated using Termination Date as source of truth (data precedence rule),Resolved
+EMP1041,Missing Department,Department field blank in raw export,Flagged as UNASSIGNED - PENDING MANAGER INPUT; escalated to reporting manager,Pending
+EMP1049,Missing Manager,Manager field blank in raw export,Flagged as UNASSIGNED; queued for HRBP follow-up,Pending
+EMP1043,Missing Employee Name,Name field blank in raw export,Flagged as UNKNOWN - PENDING HR CONFIRMATION; routed to source system owner,Pending
+EMP1061,Missing Department,Department field blank in raw export,Flagged as UNASSIGNED - PENDING MANAGER INPUT; escalated to reporting manager,Pending
+EMP1020,Terminated - No Termination Date,Status is Terminated but Termination Date is blank,Flagged for payroll/offboarding team confirmation before next report cycle,Pending
+EMP1084,Terminated - No Termination Date,Status is Terminated but Termination Date is blank,Flagged for payroll/offboarding team confirmation before next report cycle,Pending
+EMP1053,Duplicate Employee ID,Employee ID EMP1053 appears 2 times in raw export,Retained most complete record per SOP; removed duplicate row(s),Resolved
+EMP1117,Missing Department,Department field blank in raw export,Flagged as UNASSIGNED - PENDING MANAGER INPUT; escalated to reporting manager,Pending

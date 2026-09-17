@@ -1,0 +1,121 @@
+Employee ID,Employee Name,Department,Hire Date,Status,Termination Date,Manager,Performance Rating
+EMP1007,Rohan Agarwal,Total Rewards,2023-01-21,Terminated,2024-08-16,S. Krishnan,Meets Expectations
+EMP1074,Manoj Bhat,Payroll,2024-03-06,Active,,S. Krishnan,Meets Expectations
+EMP1054,Anjali Kapoor,Mobility,2024-09-25,Active,,P. Bose,Not Yet Rated
+EMP1003,Karan Singh,Talent Acquisition,2025-04-17,Active,,N. Kaur,Not Yet Rated
+EMP1050,Priya Menon,Talent Development,2021-03-28,Active,,UNASSIGNED,Meets Expectations
+EMP1077,Deepak Sharma,Talent Development,2021-03-27,Active,,V. Subramaniam,Meets Expectations
+EMP1018,Rajesh Reddy,Total Rewards,2024-09-10,Terminated,2026-04-20,R. Malhotra,Meets Expectations
+EMP1014,Divya Gupta,HRIS & Systems,2020-01-08,Active,,S. Krishnan,Meets Expectations
+EMP1062,Amit Bhat,Talent Development,2023-04-22,Active,,P. Bose,Meets Expectations
+EMP1106,Arjun Pillai,HRIS & Systems,2023-11-29,Terminated,,V. Subramaniam,Exceeds Expectations
+EMP1058,Ritu Nair,Total Rewards,2023-07-22,Terminated,2024-01-18,R. Malhotra,Meets Expectations
+EMP1027,Sneha Bhat,Talent Business Advisory,2023-10-01,Active,,P. Bose,Exceeds Expectations
+EMP1065,Deepak Desai,Mobility,2025-02-22,Terminated,2026-09-15,A. Fernandes,Needs Improvement
+EMP1021,Vikram Menon,Payroll,2021-12-21,Terminated,2025-11-12,A. Fernandes,Not Yet Rated
+EMP1052,Pooja Pillai,Mobility,2025-01-05,Active,,S. Krishnan,Exceeds Expectations
+EMP1115,Suresh Nair,Total Rewards,2025-03-06,Active,,V. Subramaniam,Needs Improvement
+EMP1033,Vikram Iyer,Total Rewards,2021-06-10,Active,,V. Subramaniam,Not Yet Rated
+EMP1088,Rohan Singh,Mobility,2024-06-24,Terminated,2026-04-27,N. Kaur,Needs Improvement
+EMP1026,Anjali Kulkarni,HRIS & Systems,2021-09-22,Active,,P. Bose,Meets Expectations
+EMP1045,Isha Sharma,HR Operations,2019-11-05,Active,,V. Subramaniam,Exceeds Expectations
+EMP1064,Priya Agarwal,Talent Development,2020-05-12,Terminated,2026-09-14,A. Fernandes,Needs Improvement
+EMP1066,Arjun Singh,Total Rewards,2024-11-05,Active,,N. Kaur,Meets Expectations
+EMP1116,Divya Reddy,HRIS & Systems,2020-04-26,Active,,P. Bose,Meets Expectations
+EMP1114,Meera Desai,HRIS & Systems,2020-05-12,Active,,N. Kaur,Not Yet Rated
+EMP1071,Meera Chatterjee,Mobility,2025-01-13,Active,,A. Fernandes,Needs Improvement
+EMP1098,Vikram Kulkarni,Total Rewards,2019-12-15,Active,,S. Krishnan,Not Yet Rated
+EMP1073,Amit Gupta,Talent Acquisition,2023-06-02,Active,,N. Kaur,Exceeds Expectations
+EMP1076,UNKNOWN - PENDING HR CONFIRMATION,HRIS & Systems,2019-03-21,Terminated,2020-01-01,A. Fernandes,Exceeds Expectations
+EMP1060,Anjali Nair,HR Operations,2022-03-08,Terminated,2026-03-23,S. Krishnan,Meets Expectations
+EMP1036,Vivek Chandra,Talent Acquisition,2019-12-02,Active,,N. Kaur,Not Yet Rated
+EMP1055,Arjun Verma,Mobility,2019-01-07,Terminated,2022-07-12,R. Malhotra,Needs Improvement
+EMP1103,Meera Mehta,HRIS & Systems,2019-10-19,Active,,R. Malhotra,Not Yet Rated
+EMP1085,Rahul Singh,HR Operations,2022-02-16,Active,,UNASSIGNED,Needs Improvement
+EMP1079,Ananya Chandra,HR Operations,2020-11-01,Active,,S. Krishnan,Not Yet Rated
+EMP1047,Priya Joshi,Talent Development,2021-10-19,Active,,R. Malhotra,Not Yet Rated
+EMP1028,Priya Chatterjee,Talent Business Advisory,2020-03-23,Active,,A. Fernandes,Meets Expectations
+EMP1110,Rahul Kapoor,HR Operations,2020-10-20,Active,,P. Bose,Needs Improvement
+EMP1023,Divya Singh,HR Operations,2022-10-16,Active,,V. Subramaniam,Not Yet Rated
+EMP1029,Vikram Bhat,Payroll,2022-02-14,Active,,A. Fernandes,Exceeds Expectations
+EMP1090,Ritu Kulkarni,Talent Business Advisory,2024-04-22,Active,,R. Malhotra,Needs Improvement
+EMP1100,Vivek Bhat,Total Rewards,2025-05-18,Terminated,2026-03-17,A. Fernandes,Meets Expectations
+EMP1035,Ananya Patel,HR Operations,2021-08-21,Active,,S. Krishnan,Not Yet Rated
+EMP1118,Karan Chandra,Payroll,2019-10-13,Active,,P. Bose,Meets Expectations
+EMP1091,Pooja Desai,UNASSIGNED - PENDING MANAGER INPUT,2022-06-09,Active,,A. Fernandes,Exceeds Expectations
+EMP1001,Manoj Reddy,Talent Acquisition,2022-01-31,Active,,A. Fernandes,Meets Expectations
+EMP1099,Shreya Chandra,Talent Development,2024-11-10,Active,,P. Bose,Needs Improvement
+EMP1096,Kavya Menon,UNASSIGNED - PENDING MANAGER INPUT,2022-10-27,Active,,S. Krishnan,Meets Expectations
+EMP1102,Aarav Bhat,HRIS & Systems,2025-08-29,Active,,UNASSIGNED,Exceeds Expectations
+EMP1017,Meera Bhat,Payroll,2024-02-02,Active,,N. Kaur,Meets Expectations
+EMP1095,Isha Mehta,Payroll,2024-07-03,Active,,S. Krishnan,Not Yet Rated
+EMP1107,Anjali Kapoor,Total Rewards,2019-04-16,Active,,A. Fernandes,Not Yet Rated
+EMP1015,Ritu Bhat,HR Operations,2023-04-26,Active,,V. Subramaniam,Needs Improvement
+EMP1030,Isha Reddy,Talent Acquisition,2025-01-23,Active,,S. Krishnan,Meets Expectations
+EMP1072,Arjun Bhat,HRIS & Systems,2019-04-29,Active,,R. Malhotra,Needs Improvement
+EMP1067,Amit Patel,Total Rewards,2021-08-18,Active,,R. Malhotra,Meets Expectations
+EMP1016,Isha Sharma,HR Operations,2025-01-08,Active,,N. Kaur,Meets Expectations
+EMP1105,Ananya Mehta,Total Rewards,2023-12-04,Active,,P. Bose,Meets Expectations
+EMP1108,Deepak Rao,Talent Acquisition,2020-12-18,Active,,V. Subramaniam,Needs Improvement
+EMP1025,Rahul Patel,Talent Development,2022-02-14,Active,,A. Fernandes,Not Yet Rated
+EMP1097,Sneha Patel,Mobility,2024-07-07,Active,,V. Subramaniam,Exceeds Expectations
+EMP1040,Divya Joshi,Total Rewards,2020-10-08,Active,,V. Subramaniam,Meets Expectations
+EMP1075,Rahul Iyer,HRIS & Systems,2022-08-31,Active,,P. Bose,Meets Expectations
+EMP1083,Sneha Bhat,Talent Business Advisory,2024-02-27,Active,,P. Bose,Meets Expectations
+EMP1078,Vikram Menon,HR Operations,2025-04-29,Active,,P. Bose,Meets Expectations
+EMP1024,Vivek Singh,Talent Acquisition,2019-10-18,Active,,A. Fernandes,Exceeds Expectations
+EMP1032,Aarav Chatterjee,Total Rewards,2024-02-07,Active,,P. Bose,Not Yet Rated
+EMP1113,Rajesh Joshi,HRIS & Systems,2023-12-16,Active,,A. Fernandes,Meets Expectations
+EMP1082,Ritu Joshi,HR Operations,2024-09-03,Active,,S. Krishnan,Needs Improvement
+EMP1048,Shreya Gupta,Talent Development,2020-10-27,Active,,P. Bose,Exceeds Expectations
+EMP1046,Vivek Agarwal,Payroll,2023-10-27,Active,,S. Krishnan,Meets Expectations
+EMP1038,Amit Kapoor,HR Operations,2019-02-08,Active,,V. Subramaniam,Not Yet Rated
+EMP1008,Rohan Singh,HR Operations,2023-04-06,Active,,P. Bose,Meets Expectations
+EMP1042,Anjali Agarwal,Payroll,2022-01-20,Active,,V. Subramaniam,Meets Expectations
+EMP1006,Pooja Joshi,UNASSIGNED - PENDING MANAGER INPUT,2019-06-27,Active,,V. Subramaniam,Exceeds Expectations
+EMP1004,Divya Desai,Total Rewards,2019-01-27,Active,,N. Kaur,Needs Improvement
+EMP1039,Rohan Agarwal,Talent Development,2024-09-03,Active,,A. Fernandes,Meets Expectations
+EMP1022,Suresh Mehta,Mobility,2023-03-10,Active,,V. Subramaniam,Needs Improvement
+EMP1120,Pooja Kapoor,Mobility,2024-02-09,Active,,A. Fernandes,Meets Expectations
+EMP1086,Rahul Sharma,HRIS & Systems,2022-08-24,Active,,P. Bose,Meets Expectations
+EMP1119,Aarav Mehta,Total Rewards,2025-08-01,Active,,A. Fernandes,Needs Improvement
+EMP1056,Ritu Kapoor,Talent Business Advisory,2020-05-25,Active,,V. Subramaniam,Meets Expectations
+EMP1012,Manoj Menon,Mobility,2024-02-23,Active,,R. Malhotra,Meets Expectations
+EMP1037,Arjun Iyer,Talent Business Advisory,2021-09-04,Active,,P. Bose,Meets Expectations
+EMP1094,Ananya Mehta,Talent Acquisition,2024-12-27,Active,,R. Malhotra,Exceeds Expectations
+EMP1031,Neha Menon,HRIS & Systems,2021-05-25,Active,,S. Krishnan,Meets Expectations
+EMP1009,Pooja Joshi,Talent Development,2021-12-29,Active,,V. Subramaniam,Meets Expectations
+EMP1104,Neha Reddy,Talent Development,2020-09-02,Active,,UNASSIGNED,Exceeds Expectations
+EMP1005,Arjun Gupta,Talent Development,2022-10-10,Terminated,2024-05-09,S. Krishnan,Needs Improvement
+EMP1070,Neha Chatterjee,Talent Acquisition,2025-06-16,Active,,P. Bose,Exceeds Expectations
+EMP1063,Manoj Sharma,HR Operations,2023-10-08,Active,,A. Fernandes,Not Yet Rated
+EMP1092,Rahul Reddy,Payroll,2021-02-23,Active,,N. Kaur,Needs Improvement
+EMP1081,Sneha Mehta,HR Operations,2025-05-07,Active,,R. Malhotra,Not Yet Rated
+EMP1041,Ritu Agarwal,UNASSIGNED - PENDING MANAGER INPUT,2020-02-29,Active,,R. Malhotra,Exceeds Expectations
+EMP1049,Anjali Kapoor,Mobility,2021-10-13,Active,,UNASSIGNED,Exceeds Expectations
+EMP1069,Neha Bhat,Talent Business Advisory,2025-01-31,Active,,P. Bose,Exceeds Expectations
+EMP1087,Arjun Kapoor,Total Rewards,2025-09-07,Active,,V. Subramaniam,Exceeds Expectations
+EMP1043,UNKNOWN - PENDING HR CONFIRMATION,HRIS & Systems,2021-10-25,Active,,S. Krishnan,Needs Improvement
+EMP1011,Rahul Chatterjee,Total Rewards,2019-09-29,Active,,V. Subramaniam,Meets Expectations
+EMP1111,Ritu Chatterjee,Talent Acquisition,2024-02-06,Active,,R. Malhotra,Meets Expectations
+EMP1051,Divya Sharma,Talent Development,2023-06-21,Active,,R. Malhotra,Exceeds Expectations
+EMP1089,Aarav Patel,Total Rewards,2021-06-26,Active,,N. Kaur,Meets Expectations
+EMP1080,Meera Kulkarni,Mobility,2023-06-13,Active,,S. Krishnan,Not Yet Rated
+EMP1044,Priya Sharma,Talent Business Advisory,2020-06-19,Active,,A. Fernandes,Needs Improvement
+EMP1034,Anjali Kapoor,Talent Acquisition,2019-07-25,Terminated,2022-09-23,S. Krishnan,Not Yet Rated
+EMP1101,Ritu Patel,Payroll,2021-09-09,Active,,V. Subramaniam,Exceeds Expectations
+EMP1061,Divya Iyer,UNASSIGNED - PENDING MANAGER INPUT,2019-04-11,Active,,A. Fernandes,Needs Improvement
+EMP1010,Ananya Desai,Mobility,2022-01-10,Terminated,2023-10-01,S. Krishnan,Meets Expectations
+EMP1020,Priya Singh,HR Operations,2019-12-17,Terminated,,S. Krishnan,Not Yet Rated
+EMP1084,Shreya Agarwal,HRIS & Systems,2024-03-19,Terminated,,N. Kaur,Not Yet Rated
+EMP1053,Ananya Kulkarni,Total Rewards,2019-06-06,Active,,V. Subramaniam,Needs Improvement
+EMP1019,Shreya Kapoor,HRIS & Systems,2019-03-21,Active,,R. Malhotra,Meets Expectations
+EMP1093,Anjali Kulkarni,Total Rewards,2020-02-16,Active,,R. Malhotra,Meets Expectations
+EMP1002,Ritu Agarwal,HR Operations,2025-08-15,Active,,S. Krishnan,Exceeds Expectations
+EMP1059,Vivek Chandra,Talent Business Advisory,2024-03-19,Active,,P. Bose,Meets Expectations
+EMP1117,Neha Menon,UNASSIGNED - PENDING MANAGER INPUT,2021-09-25,Active,,V. Subramaniam,Meets Expectations
+EMP1068,Vikram Gupta,Talent Development,2023-04-18,Active,,N. Kaur,Meets Expectations
+EMP1057,Rahul Chatterjee,Total Rewards,2025-03-20,Active,,A. Fernandes,Needs Improvement
+EMP1109,Ananya Kulkarni,Mobility,2024-07-07,Active,,P. Bose,Meets Expectations
+EMP1013,Anjali Agarwal,Total Rewards,2025-07-22,Active,,V. Subramaniam,Needs Improvement
+EMP1112,Sneha Chatterjee,Talent Acquisition,2025-01-31,Active,,P. Bose,Exceeds Expectations
